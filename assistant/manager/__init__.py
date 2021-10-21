@@ -1,9 +1,9 @@
 # Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Copyright (C) 2021 TeamULTRON
 #
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://github.com/irash1234567/ULTRON-USER-BOT/blob/main/LICENSE/>.
 
 from .. import *
 from pyUltroid.misc._decorators import ultroid_cmd
