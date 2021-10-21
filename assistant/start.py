@@ -1,9 +1,9 @@
 # Ultroid - UserBot
 # Copyright (C) 2021 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/irash1234567/ULTRON-USER-BOT/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://github.com/irash1234567/ULTRON-USER-BOT/blob/main/LICENSE/>.
 
 from datetime import datetime
 
@@ -27,7 +27,7 @@ Owner_info_msg = (
 
 **Message Forwards** - {udB.get("PMBOT")}
 
-**Ultroid [v{ultroid_version}](https://github.com/TeamUltroid/Ultroid), powered by @TeamUltroid**
+**Ultroid [v{ultroid_version}](https://github.com/irash1234567/ULTRON-USER-BOT), powered by @TeamUltron**
 """
 )
 
