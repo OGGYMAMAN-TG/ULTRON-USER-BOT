@@ -1,7 +1,7 @@
 # Ultroid - UserBot
 # Copyright (C) 2021 TeamULTRON
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/irash1234567/ULTRON-USER-BOT/ >
 # PLease read the GNU Affero General Public License in
 # <https://github.com/irash1234567/ULTRON-USER-BOT/blob/main/LICENSE/>.
 
