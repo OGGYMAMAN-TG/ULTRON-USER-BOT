@@ -100,7 +100,7 @@ Different ways to get your `SESSION`:
 * Linux : `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
-* TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
+* SESSION GENERATOR : [SessionGenerator](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
 
 Made with 💕 by [@TeamULTRON](https://t.me/ULTRONBOTS). <br />
 
