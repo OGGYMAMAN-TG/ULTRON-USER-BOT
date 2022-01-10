@@ -43,8 +43,8 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupport"),
+        Button.url("• Repo •", url="https://github.com/OGGYMAMAN-TG/ULTRON-USER-BOT"),
+        Button.url("• Support •", url="t.me/ULTRONBOTS"),
     ],
 ]
 
@@ -53,9 +53,9 @@ SUP_BUTTONS = [
 
 @in_pattern(owner=True, func=lambda x: not x.text)
 async def inline_alive(o):
-    MSG = "• **Ultroid Userbot •**"
+    MSG = "• **Ultron Userbot •**"
     WEB0 = InputWebDocument(
-        "https://telegra.ph/file/55dd0f381c70e72557cb1.jpg", 0, "image/jpg", []
+        "https://telegra.ph/file/f710d2c7b8e832de9378e.jpg", 0, "image/jpg", []
     )
     RES = [
         await o.builder.article(
@@ -63,7 +63,7 @@ async def inline_alive(o):
             text=MSG,
             include_media=True,
             buttons=SUP_BUTTONS,
-            title="Ultroid Userbot",
+            title="Ultron Userbot",
             description="Userbot | Telethon",
             url=TLINK,
             thumb=WEB0,
