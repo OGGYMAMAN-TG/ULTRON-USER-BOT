@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="https://telegra.ph/file/f710d2c7b8e832de9378e.jpg" alt="TeamUltron Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
@@ -37,7 +37,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-<a href="https://heroku.com/deploy?template=https://github.com/irash1234567/ULTRON-USER-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/OGGYMAMAN-TG/ULTRON-USER-BOT">
 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
